@@ -1,1 +1,1 @@
-let saludar = "Dios te vendiga"
+let saludar = "Dios te vendiga Bernardo"
