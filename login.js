@@ -1,1 +1,1 @@
-let entrar = "login v2"
+let entrar = "Dios es mi guia, en todos mis proyectos y aspiraciones"
